@@ -38,7 +38,7 @@ nav a {
 }
 
 table, tr, td, th {
-    border: 1px solid #222;
+    border: 1px solid slateblue;
     border-collapse: collapse;
     table-layout: fixed;
     width: 90%;
